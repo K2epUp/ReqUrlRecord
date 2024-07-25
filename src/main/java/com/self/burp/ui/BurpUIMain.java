@@ -54,6 +54,7 @@ public class BurpUIMain {
                 BurpExtender.filteHost = hostTextField.getText();
             }
         });
+
         saveButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
