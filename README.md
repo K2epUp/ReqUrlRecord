@@ -1,7 +1,9 @@
 # ReqUrlRecord
 
 开发环境：IDEA + Maven
+
 BurpSuite接口：Legacy版本API接口
+
 Maven引入依赖：
 
 ``` XML
@@ -14,4 +16,4 @@ Maven引入依赖：
 
 插件页面截图
 
-![picture](./插件页面.png)
+![picture](page.png)
