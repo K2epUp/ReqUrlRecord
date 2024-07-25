@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="self_OldBurp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/self_OldBurp_jar</output-path>
+    <root id="archive" name="self_OldBurp.jar">
+      <element id="module-output" name="self_OldBurp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apache-maven-3.9.0/maven-repo/net/portswigger/burp/extender/burp-extender-api/2.3/burp-extender-api-2.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
