@@ -33,7 +33,7 @@ public class BurpExtender implements IBurpExtender, ITab, IHttpListener {
         // 初始化UI组件,获取到 UI 中主界面变量,注册到 Burp
         jPanelMain = burpUIMain.getRoot();
         callbacks.customizeUiComponent(jPanelMain);
-        // 添加自定义的Tab页面
+        // 添加自定义的Tab页面.
         callbacks.addSuiteTab(this);
     }
 
