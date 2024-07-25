@@ -1,5 +1,6 @@
 # ReqUrlRecord
-BurpSuite API：旧版本API接口
+开发环境：IDEA + Maven
+BurpSuite接口：Legacy版本API接口
 Maven引入依赖：
 ``` XML
 <dependency>
